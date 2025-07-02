@@ -15,7 +15,8 @@ I utilized an online decipher tool to decrypt this Caesar Cipher, [dCode](https:
 
 This was a Caesar Cipher with a **shift of -8 (or +18)**.
 
-**Note**: In Caesar ciphers, shifting 8 positions backward is the same as shifting 18 forward, since the English alphabet has 26 letters and the shifts wrap around in a circle.
+**Note**: In Caesar ciphers, shifting 8 positions backward is the same as shifting 18 forward, since the English alphabet has 26 letters and the shifts wrap around in a circle.  
+**Note**: Every attempt generates a random flag, please use the provided string from the downloaded text file
 
 ## Answer
 
