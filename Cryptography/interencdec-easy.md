@@ -1,4 +1,4 @@
-# [interencdec - Easy](hhttps://play.picoctf.org/practice/challenge/418?category=2&page=1)
+# [interencdec - Easy](https://play.picoctf.org/practice/challenge/418?category=2&page=1)
 
 ## Challenge Description
 
